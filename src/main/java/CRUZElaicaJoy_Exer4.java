@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class MyFirstJavaForm {
+public class CRUZElaicaJoy_Exer4 {
     public static void main(String[] args) {
         JFrame frame = new JFrame("My First Java Form");
         frame.setSize(500, 400);
